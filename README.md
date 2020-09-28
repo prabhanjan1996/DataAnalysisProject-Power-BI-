@@ -52,6 +52,7 @@ SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON trans
 
 ------------------------------------------------------------
 
+
 Other more Queries question
 ===========================
 
